@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1200" src="https://i.pinimg.com/originals/83/9e/1d/839e1d6470604b92ba1f5e2f9beb57d9.gif">
+<img align="center" alt="Coding" width="1200" height="400" src="https://i.pinimg.com/originals/83/9e/1d/839e1d6470604b92ba1f5e2f9beb57d9.gif">
 <h1 align="center">Hi 👋, I'm Chen Kiso Golan</h1>
 <h3 align="center">A passionate full stack developer from Israel</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
